@@ -1,7 +1,7 @@
 ## 안녕하세요👋 편리함을 꿈꾸는 개발자 강형준입니다!
 
->- University of Seoul, Electrical and Computer Engineering
->- UOSLIFE backend developer
+- University of Seoul, Electrical and Computer Engineering
+- UOSLIFE backend developer
 
 ### Used Frameworks, Platforms and Libraries
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,7 +16,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<center>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgudwns)](https://solved.ac/rkdgudwns)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marsboy02)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
