@@ -1,5 +1,5 @@
 ## 안녕하세요👋 
-편리함을 꿈꾸는 개발자 Marsboy02입니다!
+편리한 세상을 꿈꾸는 개발자 Marsboy02입니다!
 
 - University of Seoul, Electrical and Computer Engineering
 - UOSLIFE backend developer
