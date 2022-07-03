@@ -1,8 +1,8 @@
 ## 안녕하세요👋 
 편리한 세상을 꿈꾸는 개발자 Marsboy02입니다!
 
-- University of Seoul, Electrical and Computer Engineering
-- UOSLIFE backend developer
+- University of Seoul, Majoring Electrical and Computer Engineering 
+- UOSLIFE Backend Developer
 
 ### Used Frameworks, Platforms and Libraries
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
