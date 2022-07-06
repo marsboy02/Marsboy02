@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Marsboy02&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=IF%20YOU%20LET%20ME%20BE%20THE%20CODE&fontAlignY=40&fontSize=55&fontColor=d6acef&animation=fadeIn)
 
 # Hello World! 👋 
 편리한 세상을 꿈꾸는 개발자 Marsboy02입니다!
