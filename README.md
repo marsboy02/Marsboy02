@@ -19,4 +19,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marsboy02&show_icons=true&theme=radical)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&fontColor=d6acef)
