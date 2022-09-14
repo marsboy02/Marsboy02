@@ -1,6 +1,7 @@
 # Profile
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Portfolio\>](https://marsboy.me)
-- UOSLIFE Backend Developer (2022.03.18 ~ ) [\<Service\>](https://uoslife.com)
+- UOSLIFE Backend Developer (2022.03 ~ ) [\<Service\>](https://uoslife.com)
+- Google Developer Student Club - Backend Developer (2022.09 ~ ) 
 
 # Links
 
