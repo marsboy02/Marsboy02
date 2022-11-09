@@ -5,5 +5,6 @@
 - Baekjoon online judge - Gold 5 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
 
 # Stack
-- NestJS WITH Javascript, Typescript
-- Flask, Algorithm Solving WITH Python3
+- NestJS - Javascript, Typescript
+- Flask, Algorithm Solving - Python3
+- docker 
