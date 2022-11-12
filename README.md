@@ -4,7 +4,7 @@
 - Google Developer Student Club - Backend Team (2022.09 ~ ) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
 - Baekjoon online judge - Gold 5 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
 
-# Stack
+# Skills
 - NestJS - Javascript, Typescript
 - Flask, Algorithm Solving - Python3
-- docker 
+- Docker 
