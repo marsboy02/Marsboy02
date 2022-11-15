@@ -7,4 +7,3 @@
 # Skills
 - NestJS - Javascript, Typescript
 - Flask, Algorithm Solving - Python3
-- Docker 
