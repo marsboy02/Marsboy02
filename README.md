@@ -1,5 +1,8 @@
-# Code For Better Life
-I Believe I can make world better using programming.
+# Portfolio
+```
+my life is full of funny.
+funny is coding.
+```
 
 ## Profile
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Portfolio\>](https://marsboy.me)
