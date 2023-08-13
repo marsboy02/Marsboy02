@@ -7,7 +7,7 @@ funny is coding.
 ## Profile
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Portfolio\>](https://marsboy.info)
 - UOSLIFE Server Developer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
-- Google Developer Student Club - Backend Team (2022.09 ~ ) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
+- Google Developer Student Club - Backend Team (2022.09 ~ 2023.09) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
 - Baekjoon online judge - Gold 3 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
 
 ## Skills
