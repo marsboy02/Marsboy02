@@ -1,7 +1,5 @@
 # marsboy02
 
-- Backend Developer
-
 ## Profile
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Portfolio\>](https://marsboy.info)
 - UOSLIFE Server Developer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
