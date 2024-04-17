@@ -2,6 +2,7 @@
 
 ## Profile
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Portfolio\>](https://marsboy.info)
+- University of Seoul, Data Mining Lab [\<Team Blog\>](https://datamining.uos.ac.kr)
 - UOSLIFE Server Engineer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
 - Google Developer Student Club - Backend Team (2022.09 ~ 2023.09) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
 - Baekjoon online judge - Gold 1 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
