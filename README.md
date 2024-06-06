@@ -5,7 +5,7 @@
 ### Education
 
 - University of Seoul, Undergraduating Electrical and Computer Engineering [\<Personal Portfolio\>](https://marsboy.info)
-- University of Seoul, Data Mining Lab [\<Lab Portfolio\>](https://datamining.uos.ac.kr)
+- University of Seoul, researching VDBMS and embedding in Data Mining Lab [\<Lab Portfolio\>](https://datamining.uos.ac.kr)
 
 ### Experience
 
@@ -25,8 +25,8 @@
 
 ### DevOps
 
-<img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ### ML
 
-<img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white">
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white">
