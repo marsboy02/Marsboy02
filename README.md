@@ -11,7 +11,7 @@
 
 - UOSLIFE Server Engineer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
 - Google Developer Student Club - Backend Team (2022.09 ~ 2023.09) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
-- Baekjoon online judge - Gold 1 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
+- Baekjoon online judge - Platinum 5 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
 
 ## Skills
 
