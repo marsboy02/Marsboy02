@@ -4,12 +4,16 @@
 
 ### Education
 
-- University of Seoul, Undergraduating Electrical and Computer Engineering [\<Personal Portfolio\>](https://marsboy.info)
-- University of Seoul, researching VDBMS and embedding in Data Mining Lab [\<Lab Portfolio\>](https://datamining.uos.ac.kr)
+- University of Seoul, Electrical and Computer Engineering (2021.03 ~ 2025.02) [\<Personal Portfolio\>](https://marsboy.info)
+- University of Seoul, Data Mining Lab (2024.03 ~ 2024.10) [\<Lab Portfolio\>](https://datamining.uos.ac.kr)
+
+
+### Career
+
+- UOSLIFE Server Engineer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
 
 ### Experience
 
-- UOSLIFE Server Engineer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
 - Google Developer Student Club - Backend Team (2022.09 ~ 2023.09) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
 - Baekjoon online judge - Platinum 5 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
 
