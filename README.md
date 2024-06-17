@@ -10,7 +10,8 @@
 
 ### Career
 
-- UOSLIFE Server Engineer (2022.03 ~ ) [\<Team Blog\>](https://uoslife.team)
+- UOSLIFE Server Engineer (2022.03 ~ 2024.06) [\<Team Blog\>](https://uoslife.team)
+- UBAI Server Engineer (2024.06 ~ ) [\<Web\>](https://ubai.uos.ac.kr)
 
 ### Experience
 
