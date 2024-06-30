@@ -33,6 +33,6 @@
 
 ## Portal
 
-- Tech blog | [tistory\ blog](https://marsboy.tistory.com)
+- Tech blog | [tistory blog](https://marsboy.tistory.com)
 - Music of Japan blog | [naver blog](https://blog.naver.com/marsboy0619)
 - Photograph instargram | [instagram](https://www.instagram.com/marsboy_studio/)
