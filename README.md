@@ -4,18 +4,18 @@
 
 ### Education
 
-- **University of Seoul** | Electrical and Computer Engineering ( 2021.03 ~ 2025.02 ) [\<Personal Portfolio\>](https://marsboy.info)
-- **University of Seoul** | Data Mining Lab ( 2024.03 ~ 2024.1 ) [\<Lab Portfolio\>](https://datamining.uos.ac.kr)
+- **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ 2025.02 ) | [Personal Portfolio](https://marsboy.info)
+- **University of Seoul** - Data Mining Lab ( 2024.03 ~ 2024.1 ) | [Lab Portfolio](https://datamining.uos.ac.kr)
 
 ### Career
 
-- **UOSLIFE** | Software Engineer ( 2022.03 ~ 2024.06 ) [\<Team Blog\>](https://www.uoslife.team/services)
-- **Urban Big Data and AI Institute, University of Seoul** | Server Engineer ( 2024.06 ~ ) [\<UBAI\>](https://ubai.uos.ac.kr)
+- **UOSLIFE** - Software Engineer ( 2022.03 ~ 2024.06 ) | [Team Blog](https://www.uoslife.team/services)
+- **Urban Big Data and AI Institute, University of Seoul** - Server Engineer ( 2024.06 ~ ) | [Web Site](https://ubai.uos.ac.kr)
 
 ### Experience
 
-- Google Developer Student Club - Backend Team ( 2022.09 ~ 2023.09 ) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
-- Baekjoon online judge - Platinum 5 [\<Profile\>](https://www.acmicpc.net/user/rkdgudwns)
+- Google Developer Student Club - Backend Team ( 2022.09 ~ 2023.09 ) | [Team Blog](https://gdsc-university-of-seoul.github.io/)
+- Baekjoon online judge - Platinum 5 | [Profile](https://www.acmicpc.net/user/rkdgudwns)
 
 ## Skills
 
@@ -30,3 +30,9 @@
 ### DevOps
 
 <img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Red hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+
+## Portal
+
+- Tech blog | [tistory\ blog](https://marsboy.tistory.com)
+- Music of Japan blog | [naver blog](https://blog.naver.com/marsboy0619)
+- Photograph instargram | [instagram](https://www.instagram.com/marsboy_studio/)
