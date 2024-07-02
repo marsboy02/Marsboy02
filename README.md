@@ -5,7 +5,7 @@
 ### Education
 
 - **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ 2025.02 ) | [Personal Portfolio](https://marsboy.info)
-- **University of Seoul** - Data Mining Lab ( 2024.03 ~ 2024.1 ) | [Lab Portfolio](https://datamining.uos.ac.kr)
+- **University of Seoul** - Data Mining Lab ( 2024.03 ~ 2024.10 ) | [Lab Portfolio](https://datamining.uos.ac.kr)
 
 ### Career
 
@@ -33,6 +33,6 @@
 
 ## Portal
 
-- Tech blog | [tistory blog](https://marsboy.tistory.com)
-- Music of Japan blog | [naver blog](https://blog.naver.com/marsboy0619)
-- Photograph instargram | [instagram](https://www.instagram.com/marsboy_studio/)
+- Tech blog | [Tistory blog](https://marsboy.tistory.com)
+- Music of Japan blog | [Naver blog](https://blog.naver.com/marsboy0619)
+- Photograph instargram | [Instagram](https://www.instagram.com/marsboy_studio/)
