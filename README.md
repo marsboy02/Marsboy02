@@ -29,10 +29,10 @@
 
 ### DevOps
 
-<img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Red hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+<img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
 
 ## Portal
 
-- Tech blog | [Tistory blog](https://marsboy.tistory.com)
-- Music of Japan blog | [Naver blog](https://blog.naver.com/marsboy0619)
-- Photograph instargram | [Instagram](https://www.instagram.com/marsboy_studio/)
+- Tech blog | [tistory blog](https://marsboy.tistory.com)
+- Japanese music blog | [naver blog](https://blog.naver.com/marsboy0619)
+- Photograph instargram | [instagram](https://www.instagram.com/marsboy_studio/)
