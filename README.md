@@ -1,4 +1,4 @@
-### Hyeongjun Kang [@marsboy02](https://github.com/marsboy02)
+## Hyeongjun Kang [@marsboy02](https://github.com/marsboy02)
 
 ### Education
 
