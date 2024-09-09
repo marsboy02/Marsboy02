@@ -14,9 +14,3 @@
 
 - Google Developer Student Club - Backend Team ( 2022.09 ~ 2023.09 ) | [Team Blog](https://gdsc-university-of-seoul.github.io/)
 - Baekjoon online judge - Platinum 5 | [Profile](https://www.acmicpc.net/user/rkdgudwns)
-
-### Portal
-
-- Tech blog | [blog](https://marsboy.tistory.com)
-- Japanese music blog | [blog](https://blog.naver.com/marsboy0619)
-- Photograph instargram | [instagram](https://www.instagram.com/marsboy_studio/)
