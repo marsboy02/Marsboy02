@@ -6,7 +6,7 @@
 ### Career
 
 - **UOSLIFE** - Software Engineer ( 2022.03 ~ 2024.09 ) | [Team Blog](https://www.uoslife.team/services)
-- **Urban Big Data and AI Institute, University of Seoul** - Server Engineer ( 2024.06 ~  ) | [Web Site](https://ubai.uos.ac.kr)
+- **Urban Big Data and AI Institute, University of Seoul** - System Engineer ( 2024.06 ~  ) | [Web Site](https://ubai.uos.ac.kr)
 
 ### Experience
 
