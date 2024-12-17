@@ -1,12 +1,12 @@
 ### Education
 
-- **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ 2025.02 ) | [Personal Portfolio](https://marsboy.info)
+- **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ ) | [Personal Portfolio](https://marsboy.info)
 - **University of Seoul** - Data Mining Lab ( 2024.03 ~ 2025.02 ) | [Lab Portfolio](https://datamining.uos.ac.kr)
 
 ### Career
 
+- **Urban Big Data and AI Institute, University of Seoul** - System Engineer ( 2024.06 ~ 2025.01 ) | [Web Site](https://ubai.uos.ac.kr)
 - **UOSLIFE** - Software Engineer ( 2022.03 ~ 2024.09 ) | [Team Blog](https://www.uoslife.team/services)
-- **Urban Big Data and AI Institute, University of Seoul** - System Engineer ( 2024.06 ~  ) | [Web Site](https://ubai.uos.ac.kr)
 
 ### Experience
 
