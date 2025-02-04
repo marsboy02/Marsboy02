@@ -1,6 +1,6 @@
 ### Education
 
-- **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ ) | [Personal Portfolio](https://marsboy.info)
+- **University of Seoul** - Electrical and Computer Engineering ( 2021.03 ~ 2025.02 ) | [Personal Portfolio](https://marsboy.info)
 - **University of Seoul** - Data Mining Lab ( 2024.03 ~ 2025.02 ) | [Lab Portfolio](https://datamining.uos.ac.kr)
 
 ### Career
