@@ -28,4 +28,4 @@
 
 ### Research Paper
 
-- **Searching Joinable Table using Cross-Encoder withPre-trained Language Model** | Database Society of Korea
+- **Searching Joinable Table using Cross-Encoder with Pre-trained Language Model** | Database Society of Korea
