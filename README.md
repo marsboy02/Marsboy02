@@ -1,4 +1,4 @@
-### Hyeongjun Kang, 강형준
+### Hyeongjun Kang
 
 Software Engineer passionate about DevOps, Platform Engineering and Network.
 
